@@ -1,6 +1,8 @@
 ### Hi there 👋
-<div id="header" align="center">
-  <img src="https://pin.it/m0bHZd9" width="100"/>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/behrad-shirkavand">
+   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logocolor=white&style=flat" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 <!--
