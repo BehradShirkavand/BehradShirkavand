@@ -7,7 +7,7 @@
    <img src="https://img.shields.io/badge/Telegram-white?logo=telegram&logocolor=white&style=flat" alt="Telegram Badge"/>
   </a>
   
-  <a href="https://wa.me/989912775465?text=Hey%there%you%can%message%me">
+  <a href="https://wa.link/50rjek">
    <img src="https://img.shields.io/badge/WhatsApp-darkgreen?logo=whatsapp&logocolor=green&style=flat" alt="WhatsApp Badge"/>
   </a>
 </div>
