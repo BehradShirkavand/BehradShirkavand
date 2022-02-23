@@ -17,7 +17,7 @@
 </div>
 
 <div id="views counter" align=center>
-  <img src="https://komarev.com/ghpvc/?username=BehradShirkavand&style=flat&color=orange" alt="views counter"/>
+  <img src="https://komarev.com/ghpvc/?username=BehradShirkavand&style=flat&color=orange" width="120" alt="views counter"/>
 <div>
 
 <!--
