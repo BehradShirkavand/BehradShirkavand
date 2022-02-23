@@ -1,5 +1,5 @@
 <div id="header" align=center>
-  <img src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif" width="200"/>
+  <img src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif" width="300"/>
 </div>
 
 <div id="badges" align=center>
@@ -15,6 +15,10 @@
    <img src="https://img.shields.io/badge/WhatsApp-darkgreen?logo=whatsapp&logocolor=green&style=flat" alt="WhatsApp Badge"/>
   </a>
 </div>
+
+<div id="views counter" align=center>
+  <img src="https://komarev.com/ghpvc/?username=BehradShirkavand&style=flat&color=orange" alt="views counter"/>
+<div>
 
 <!--
 **BehradShirkavand/BehradShirkavand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
