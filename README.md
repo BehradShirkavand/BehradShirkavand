@@ -73,10 +73,12 @@
 ## Github Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BehradShirkavand&theme=radical)
 
-![Snake animation](https://github.com/BehradShirkavand/BehradShirkavand/blob/output/github-contribution-grid-snake.svg)
+## Snake Animation
+![Light Mode Snake](https://github.com/BehradShirkavand/BehradShirkavand/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Dark Mode Snake](https://github.com/BehradShirkavand/BehradShirkavand/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ## 📌 Featured Projects
-🔹 **[Project Name 1](Project Link)** - Short description of the project  
+🔹 **[GemTopia](https://github.com/GemTopia/)** - A platform for playing game and mining custom coin.  
 🔹 **[Project Name 2](Project Link)** - Short description of the project  
 
 
