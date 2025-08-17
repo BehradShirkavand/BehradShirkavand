@@ -24,7 +24,7 @@
 ## 🚀 About Me
 🔭 Currently working on **[University Projects]**
 
-🌱 Learning **[Python, Django]**
+🌱 Learning **[Java, Spring]**
 
   
 ## 🛠️ Skills & Technologies
